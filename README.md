@@ -25,8 +25,9 @@ Aspiring/Junior Data Analyst passionate about transforming raw data into actiona
 ### 1. Biker Sales Performance Analysis | Excel
 **🔗 [Link to Notebook/Tableau Dashboard]**
 **📁 [Dataset Source]**
-- Cleaned and analyzed 1,000+ sales records to identify top-performing products and regional trends.
-- Created interactive Excel dashboards highlighting:
+- Seperated raw data and created new worksheet
+- Cleaned and analyzed 1,000+ sales records to identify regional trends.
+- Created interactive Excel dashboards showing the average income for males and females who bought and those that did not buy the bikes, 
 - Monthly revenue growth (15% YoY in Q4)
 - Customer segmentation by purchase behavior
 - **Skills Demonstrated:** Data cleaning , trend analysis, visualization.
