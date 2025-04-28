@@ -8,7 +8,7 @@ Aspiring/Junior Data Analyst passionate about transforming raw data into actiona
 
 🔗 **Portfolio Website:** [Your Website URL]
 📧 **Email:** takudzwagutsa@gmail.com
-💼 **LinkedIn:** [LinkedIn URL]
+💼 **LinkedIn:** [www.linkedin.com/in/takudzwa-gutsa-231b7212a]
 
 ---
 
