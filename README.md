@@ -23,8 +23,6 @@ Aspiring/Junior Data Analyst passionate about transforming raw data into actiona
 ## 📂 Projects
 
 ### 1. Biker Sales Performance Analysis | Excel
-**🔗 [Link to Notebook/Tableau Dashboard]**
-**📁 [Dataset Source]**
 - Seperated raw data and created new worksheet
 - Cleaned and analyzed 1,000+ sales records to identify regional trends.
 - Created interactive Excel dashboards showing the average income for males and females who bought and those that did not buy the bikes, 
@@ -35,8 +33,7 @@ Aspiring/Junior Data Analyst passionate about transforming raw data into actiona
 ---
 
 ### 2. World Layoffs Data Exploration | SQL
-**🔗 [Link to SQL Queries]**
-**📁 [Dataset: Our World in Data]**
+
 - 
 - Calculated key metrics:
 - Peak mortality rates by country
@@ -46,7 +43,7 @@ Aspiring/Junior Data Analyst passionate about transforming raw data into actiona
 ---
 
 ### 3. Customer Churn Prediction | Python (Machine Learning)
-**🔗 [Link to Jupyter Notebook]**
+
 - Built a logistic regression model (scikit-learn) to predict customer churn (80% accuracy).
 - Engineered features like "usage frequency" and "support ticket history."
 - **Skills Demonstrated:** Feature engineering, model evaluation.
