@@ -34,10 +34,10 @@ Aspiring/Junior Data Analyst passionate about transforming raw data into actiona
 
 ---
 
-### 2. COVID-19 Data Exploration | SQL
+### 2. World Layoffs Data Exploration | SQL
 **🔗 [Link to SQL Queries]**
 **📁 [Dataset: Our World in Data]**
-- Wrote complex SQL queries to track infection rates vs. vaccination progress.
+- 
 - Calculated key metrics:
 - Peak mortality rates by country
 - Vaccination efficiency comparisons
