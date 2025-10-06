@@ -25,8 +25,8 @@ Aspiring/Junior Data Analyst passionate about transforming raw data into actiona
 ### 1. Biker Sales Performance Analysis | Excel
 - Seperated raw data and created new worksheet
 - Cleaned and analyzed 1,000+ sales records to identify regional trends.
+- Created Pivot three pivot tables. 1st one shows average income per purchase by gender. Data shows that the average income for Females who bought the bikes was $76875 and average income for females who did not buy bikes is $71111. Average income for Males who bought bikes is $61250 and for those who did not buy it is $61250.
 - Created interactive Excel dashboards showing the average income for males and females who bought and those that did not buy the bikes, 
-- Monthly revenue growth (15% YoY in Q4)
 - Customer segmentation by purchase behavior
 - **Skills Demonstrated:** Data cleaning , trend analysis, visualization.
 
