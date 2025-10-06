@@ -34,8 +34,7 @@ Aspiring/Junior Data Analyst passionate about transforming raw data into actiona
 
 Skills Demonstrated: Data cleaning, pivot table analysis, interactive dashboards, data visualization, trend analysis
 
-Results:
-1st one shows average income per purchase by gender. Data shows that the average income for Females who bought the bikes was $76875 and average income for females who did not buy bikes is $71111. Average income for Males who bought bikes is $61250 and for those who did not buy it is $61250.
+
 ---
 
 ### 2. World Layoffs Data Exploration | SQL
