@@ -1,6 +1,6 @@
 # 📊 Takudzwa Gutsa's Data Analyst Portfolio
 
-**Data-Driven Insights | SQL | Python | Visualization**
+**Data-Driven Insights| Excel | SQL | Python | Visualization**
 
 
 ## 👋 About Me
