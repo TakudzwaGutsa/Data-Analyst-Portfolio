@@ -25,11 +25,17 @@ Aspiring/Junior Data Analyst passionate about transforming raw data into actiona
 ### 1. Biker Sales Performance Analysis | Excel
 
 -Organized and structured raw data by creating a separate working worksheet.
+
 -Cleaned and transformed over 1,000 sales records to prepare for analysis, ensuring data accuracy and usability.
+
 -Developed three PivotTables to analyze:
-   Average income per purchase by gender
-   Number of bikes purchased by commute distance
-   Number of bikes purchased by age group
+
+       1. Average income per purchase by gender
+   
+       2. Number of bikes purchased by commute distance
+   
+       3. Number of bikes purchased by age group
+   
 -Designed an interactive Excel dashboard incorporating the PivotTables, with slicers to dynamically filter results by marital status, region, and education level.
 
 Skills Demonstrated: Data cleaning, pivot table analysis, interactive dashboards, data visualization, trend analysis
