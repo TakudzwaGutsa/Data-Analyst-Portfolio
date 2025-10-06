@@ -4,7 +4,7 @@
 
 
 ## 👋 About Me
-Aspiring/Junior Data Analyst passionate about transforming raw data into actionable insights. Skilled in SQL, Python (Pandas, NumPy), and data visualization (Tableau, Power BI). Currently expanding my expertise in business intelligence.
+Aspiring/Junior Data Analyst passionate about transforming raw data into actionable insights. Skilled in Excel, SQL, Python (Pandas, NumPy), and data visualization (Tableau, Power BI). Currently expanding my expertise in business intelligence.
 
 🔗 **Portfolio Website:** [Your Website URL]
 📧 **Email:** takudzwagutsa@gmail.com
