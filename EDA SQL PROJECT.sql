@@ -1,4 +1,4 @@
---  EXPLORATORY DATA ANALYSIS PROECT
+--  EXPLORATORY DATA ANALYSIS PROJECT/ world Layoffs
 
 select *
 from layoffs_staging2;
