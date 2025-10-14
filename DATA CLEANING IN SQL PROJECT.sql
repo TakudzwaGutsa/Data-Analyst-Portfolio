@@ -1,5 +1,9 @@
 -- DATA CLEANINNG IN SQL PROJECT (WORLD LAYOFFS)
 
+--I cleaned the layoffs dataset using SQL by removing duplicates, filtering incomplete rows, standardizing text fields,
+--and validating numerical and date values to ensure data accuracy before analysis.
+
+
 select *
 from layoffs;
 
