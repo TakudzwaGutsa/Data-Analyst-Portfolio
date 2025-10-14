@@ -67,6 +67,8 @@ Key steps in the data exploration process included:
 
 These SQL-based exploratory queries revealed that layoffs peaked in 2022 and 2023, with the tech industry and the United States being the most significantly affected.
 
+---
+
 ### 4. AIRBNB Analysis | Tableau
 
 In this project, I designed an interactive Tableau dashboard to analyze Airbnb listings data with the goal of helping users understand market trends, pricing strategies, and availability patterns across different regions.
@@ -85,6 +87,7 @@ Using Tableau, I developed an interactive dashboard that included the following 
 
 The dashboard provided actionable insights for both Airbnb hosts (to optimize pricing and availability) and travelers (to identify good-value listings in high-demand areas).
 
+---
 
 ### 5. Data Proffession Survey | Microsoft Power BI
 
