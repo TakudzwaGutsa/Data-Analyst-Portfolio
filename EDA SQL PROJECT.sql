@@ -1,5 +1,8 @@
 --  EXPLORATORY DATA ANALYSIS PROJECT/ world Layoffs
 
+--I performed data exploration using SQL to understand the structure and trends in the global layoffs dataset. 
+--This involved writing multiple queries to analyze the distribution of layoffs across time, industries, companies, and countries.
+
 select *
 from layoffs_staging2;
 
