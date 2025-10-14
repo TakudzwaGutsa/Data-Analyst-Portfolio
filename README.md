@@ -6,7 +6,7 @@
 ## 👋 About Me
 Aspiring/Junior Data Analyst passionate about transforming raw data into actionable insights. Skilled in Excel, SQL, and data visualization (Tableau, Power BI). 
 
-🔗 **Portfolio Website:** [Your Website URL]
+🔗 **Portfolio Website:** [https://takudzwagutsa.github.io/]
 📧 **Email:** takudzwagutsa@gmail.com
 💼 **LinkedIn:** [www.linkedin.com/in/takudzwa-gutsa-231b7212a]
 
