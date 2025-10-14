@@ -117,7 +117,7 @@ This dashboard allows users to explore global trends, benchmark roles and salari
 1. Each project has its own folder with:
 - 📄 **SQL files** (with detailed comments)
 - 📊 **Visualizations** (screenshots or links to dashboards)
-- 📂 **Datasets** (or links to sources)
+- 📂 **Datasets** raw data sets for each project have also been uploaded above.
 
 
 
